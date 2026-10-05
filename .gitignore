@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# chart output from the CLI (samples live in charts/)
+/*.png
